@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDE Code suggestions.md",
+                "file": "Copilot code review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDE Code suggestions"
+              "title": "Copilot code review"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IDE Code suggestions.md",
+                "file": "Copilot code review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IDE Code suggestions"
+              "title": "Backlinks for Copilot code review"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IDE Code suggestions.md",
+                "file": "Copilot code review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IDE Code suggestions"
+              "title": "Outgoing links from Copilot code review"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IDE Code suggestions.md",
+                "file": "Copilot code review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IDE Code suggestions"
+              "title": "Outline of Copilot code review"
             }
           }
         ]
@@ -172,7 +172,11 @@
   },
   "active": "e6b577886cd1c553",
   "lastOpenFiles": [
-    "Welcome.md",
-    "IDE Code suggestions.md"
+    "Copilot CLI (public preview).md",
+    "Copilot code review.md",
+    "Copilot coding agent.md",
+    "Copilot Chat.md",
+    "IDE Code suggestions.md",
+    "Welcome.md"
   ]
 }

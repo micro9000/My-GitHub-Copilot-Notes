@@ -1,0 +1,1 @@
+An autonomous AI agent that can make code changes for you. You can assign a GitHub issue to Copilot and the agent will work on making the required changes, and will create a pull request for you to review. You can also ask Copilot to create a pull request from Copilot Chat. See [GitHub Copilot coding agent](https://docs.github.com/en/copilot/using-github-copilot/coding-agent).
