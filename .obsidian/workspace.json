@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copilot Edits.md",
+                "file": "Copilot custom instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copilot Edits"
+              "title": "Copilot custom instructions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Copilot Edits.md",
+                "file": "Copilot custom instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Copilot Edits"
+              "title": "Backlinks for Copilot custom instructions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Copilot Edits.md",
+                "file": "Copilot custom instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Copilot Edits"
+              "title": "Outgoing links from Copilot custom instructions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Copilot Edits.md",
+                "file": "Copilot custom instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copilot Edits"
+              "title": "Outline of Copilot custom instructions"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "4f6f64677188450b",
   "lastOpenFiles": [
-    "Copilot Extensions.md",
     "Copilot Edits.md",
+    "Copilot custom instructions.md",
+    "Copilot Extensions.md",
     "Pull request summaries.md",
     "IDE Code suggestions.md",
     "Copilot coding agent.md",
