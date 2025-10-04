@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copilot custom instructions.md",
+                "file": "Customize chat in VS Code/Customization options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copilot custom instructions"
+              "title": "Customization options"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Copilot custom instructions.md",
+                "file": "Customize chat in VS Code/Customization options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Copilot custom instructions"
+              "title": "Backlinks for Customization options"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Copilot custom instructions.md",
+                "file": "Customize chat in VS Code/Customization options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Copilot custom instructions"
+              "title": "Outgoing links from Customization options"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Copilot custom instructions.md",
+                "file": "Customize chat in VS Code/Customization options.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copilot custom instructions"
+              "title": "Outline of Customization options"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "4f6f64677188450b",
   "lastOpenFiles": [
+    "Customize chat in VS Code/Copilot custom instructions.md",
+    "Customize chat in VS Code/Customization options.md",
+    "Customize chat in VS Code",
     "Copilot Edits.md",
-    "Copilot custom instructions.md",
     "Copilot Extensions.md",
     "Pull request summaries.md",
     "IDE Code suggestions.md",
