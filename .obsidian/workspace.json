@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code completion.md",
+                "file": "IDE Code suggestions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code completion"
+              "title": "IDE Code suggestions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code completion.md",
+                "file": "IDE Code suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code completion"
+              "title": "Backlinks for IDE Code suggestions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code completion.md",
+                "file": "IDE Code suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code completion"
+              "title": "Outgoing links from IDE Code suggestions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code completion.md",
+                "file": "IDE Code suggestions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code completion"
+              "title": "Outline of IDE Code suggestions"
             }
           }
         ]
@@ -173,6 +173,6 @@
   "active": "e6b577886cd1c553",
   "lastOpenFiles": [
     "Welcome.md",
-    "Code completion.md"
+    "IDE Code suggestions.md"
   ]
 }
