@@ -13,3 +13,11 @@ The triggers for automatic code review depend on the configuration settings:
     - Every time a new commit is pushed to the pull request.
 - **Review draft pull requests**:
     - Pull requests are automatically reviewed while they are still drafts—before being switched to "Open".
+
+# Configuring automatic code review by GitHub Copilot
+
+https://docs.github.com/en/copilot/how-tos/use-copilot-agents/request-a-code-review/configure-automatic-review
+
+## Rulesets 
+
+![[Pasted image 20251004145004.png]]
