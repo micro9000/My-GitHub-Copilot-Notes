@@ -32,3 +32,5 @@ Enabling comment suggestions
 3. Click **C#**, then **Advanced**.
 4. Under "Comments," select **Generate XML documentation comments for ///**, **Insert // at the start of new lines when writing // comments**, and **Insert * at the start of new lines when writing /* */ comments.**
 
+## Navigating and accepting next edit suggestions
+
