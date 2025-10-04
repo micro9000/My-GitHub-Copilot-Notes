@@ -23,5 +23,12 @@ Comment suggestions are available in the following languages:
 - C#
 - C++
 
+Enabling comment suggestions
 
+#### [For C#](https://docs.github.com/en/copilot/how-tos/get-code-suggestions/get-ide-code-suggestions#for-c-1)
+
+1. In Visual Studio, in the **Tools** menu, click **Options**.
+2. In the left-side panel, click **Text Editor**.
+3. Click **C#**, then **Advanced**.
+4. Under "Comments," select **Generate XML documentation comments for ///**, **Insert // at the start of new lines when writing // comments**, and **Insert * at the start of new lines when writing /* */ comments.**
 
