@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customize chat in VS Code/Customization options.md",
+                "file": "Customize chat in VS Code/VS Code - Custom Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Customization options"
+              "title": "VS Code - Custom Instructions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Customize chat in VS Code/Customization options.md",
+                "file": "Customize chat in VS Code/VS Code - Custom Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Customization options"
+              "title": "Backlinks for VS Code - Custom Instructions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Customize chat in VS Code/Customization options.md",
+                "file": "Customize chat in VS Code/VS Code - Custom Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Customization options"
+              "title": "Outgoing links from VS Code - Custom Instructions"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Customize chat in VS Code/Customization options.md",
+                "file": "Customize chat in VS Code/VS Code - Custom Instructions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Customization options"
+              "title": "Outline of VS Code - Custom Instructions"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "4f6f64677188450b",
   "lastOpenFiles": [
-    "Customize chat in VS Code/Copilot custom instructions.md",
     "Customize chat in VS Code/Customization options.md",
+    "Customize chat in VS Code/VS Code - Custom Instructions.md",
+    "Customize chat in VS Code/Copilot custom instructions.md",
     "Customize chat in VS Code",
     "Copilot Edits.md",
     "Copilot Extensions.md",
